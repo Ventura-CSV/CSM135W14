@@ -1,0 +1,1 @@
+This is a simple example! It demonstrates how the Markov chain works. Each sentence begins with a capital letter. The end of a sentence is marked by a period. The program reads this text and builds a Markov chain. It uses the chain to generate new sentences. This process continues, creating random sentences based on the patterns observed in the input text.
